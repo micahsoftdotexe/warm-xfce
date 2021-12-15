@@ -172,7 +172,7 @@
     </property>
     <property name="plugin-6" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance4369;chromium.instance4495;chromium.instance49976;chromium.instance5400;chromium.instance82268;chromium.instance9757"/>
+      <property name="mpris-players" type="string" value="chromium.instance10551;chromium.instance11069;chromium.instance13213;chromium.instance15939;chromium.instance18463;chromium.instance37443;chromium.instance4369;chromium.instance4495;chromium.instance49976;chromium.instance5015;chromium.instance5025;chromium.instance5375;chromium.instance5400;chromium.instance5825;chromium.instance82268;chromium.instance9757"/>
     </property>
     <property name="plugin-7" type="string" value="actions"/>
     <property name="plugin-8" type="string" value="systray">
@@ -186,6 +186,7 @@
         <value type="string" value="polychromatic"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="zoom"/>
         <value type="string" value="discord1"/>
         <value type="string" value="steam"/>
         <value type="string" value="gdlauncher1"/>
